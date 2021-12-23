@@ -1,0 +1,3 @@
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/select_gt/gt000741.png
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/select_gt/gt000627.png
+

@@ -1,0 +1,3 @@
+/home/wrf/2TDisk/data/rss/CD_all/CD_test/000/RGB/1_07.jpg 0
+/home/wrf/2TDisk/data/rss/CD_all/CD_test/001/RGB/2_01.jpg 1
+/home/wrf/2TDisk/data/rss/CD_all/CD_test/016/RGB/2_04.jpg 1

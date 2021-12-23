@@ -14,6 +14,9 @@ work helps in your research, please consider citing.
 ## Quick Start
 
 ## Train
+```
+python train_SC2D.py
+```
 
 ## Evaluate
 You can find the evaluation config in the folder`option`. 

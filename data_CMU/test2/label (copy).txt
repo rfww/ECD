@@ -1,0 +1,3 @@
+/home/wrf/2TDisk/data/rss/CD_all/CD_test/001/GT1/gt01.png
+/home/wrf/2TDisk/data/rss/CD_all/CD_test/004/GT1/gt08.png
+/home/wrf/2TDisk/data/rss/CD_all/CD_test/036/GT1/gt12.png

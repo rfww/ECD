@@ -1,0 +1,12 @@
+/home/wrf/2TDisk/data/CDnet2014/dataset/PTZ/continuousPan/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/badWeather/blizzard/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/badWeather/wetSnow/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/baseline/pedestrians/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/cameraJitter/traffic/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/dynamicBackground/canoe/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/intermittentObjectMotion/winterDriveway/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/lowFramerate/tunnelExit_0_35fps/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/nightVideos/fluidHighway/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/shadow/peopleInShade/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/thermal/park/img1.jpg 0
+/home/wrf/2TDisk/data/CDnet2014/dataset/turbulence/turbulence3/img1.jpg 0
