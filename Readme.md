@@ -10,8 +10,9 @@ work helps in your research, please consider citing.
 - torchvision 0.5.0
 
 ## Installation
-
-## Quick Start
+```bash
+pip install -r requirements.txt
+```
 
 ## Train
 ```
