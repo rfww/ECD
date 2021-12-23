@@ -29,7 +29,9 @@ in the command environment.
 
 > python test_CDnet.py # Evaluation on the CDnet dataset
 
+pretrained model: [Download](https://pan.baidu.com/s/1anrjZNFEySvGH8ikyIWLxg) passwad: SC2D
 ```
+
 options 
 - cuda: True/False
 - cd-model: model to train or test CD
