@@ -29,7 +29,7 @@ in the command environment.
 
 > python test_CDnet.py # Evaluation on the CDnet dataset
 
-pretrained model: [Download](https://pan.baidu.com/s/1anrjZNFEySvGH8ikyIWLxg) passwad: SC2D
+pretrained model: [Download](https://pan.baidu.com/s/1BjhFqbxQLaV1cndMRgWCuw) passwad: SC2D
 ```
 
 options 
